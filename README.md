@@ -12,10 +12,6 @@ This is a tribute page dedicated to Sundar Pichai, the CEO of Google LLC, create
 
 The tribute page includes a brief memoir of Sundar Pichai's life and achievements, along with a motivational quote. It highlights his career journey, leadership style, and contributions to the tech industry. The page is designed with a clean and modern layout to ensure readability and visual appeal.
 
-## Screenshot
-
-
-
 ## HTML Content
 
 ```html
